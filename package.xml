@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>inekf</name>
+  <version>0.0.0</version>
+  <description>The invariant extended kalman filter package</description>
+
+  <maintainer email="huning-he@qq.com">Henning He</maintainer>
+  <license>BSD-3</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <export>
+   <build_type>ament_cmake</build_type>
+  </export>
+
+</package>
